@@ -1,0 +1,20 @@
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.a{
+  background-color: crimson;
+}
+.b {
+  background-color: cyan;
+}
+
+.c {
+  background-color: green;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
